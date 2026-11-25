@@ -6,7 +6,7 @@ Claude skills for running a personal training business: weekly client check-ins,
 
 You need a paid Claude plan (Pro or above).
 
-1. **Turn on file creation**: Settings → Capabilities → switch on **Code execution and file creation**.
+1. **Check file creation is on**: Settings → Capabilities → **Create and edit files** (called *Code execution and file creation* in older versions). It's on by default; on a Team or business plan, an admin controls it.
 2. **Connect Google Drive**: Customize → Connectors → Google Drive → Connect.
 3. **Add these skills**: Customize → Plugins → **Add** → **Add marketplace** → enter `BobDeUncle/Coach-Skills`. Then install the **coach-skills** plugin.
 4. **Stay up to date**: on the marketplace, switch on **Sync automatically**. New and improved skills then arrive on their own.
