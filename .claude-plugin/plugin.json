@@ -1,0 +1,15 @@
+{
+  "name": "coach-skills",
+  "version": "0.1.0",
+  "description": "Weekly client check-ins, red/orange/green triage, and a consistent review queue for the head coach.",
+  "author": {
+    "name": "BobDeUncle",
+    "url": "https://github.com/BobDeUncle"
+  },
+  "repository": "https://github.com/BobDeUncle/Coach-Skills",
+  "license": "MIT",
+  "keywords": ["personal-training", "coaching", "check-ins"],
+  "skills": [
+    "./skills/coach-requirements"
+  ]
+}

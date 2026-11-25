@@ -1,0 +1,17 @@
+{
+  "name": "coach-skills",
+  "owner": {
+    "name": "BobDeUncle",
+    "url": "https://github.com/BobDeUncle"
+  },
+  "description": "Claude skills for running a personal training business.",
+  "plugins": [
+    {
+      "name": "coach-skills",
+      "source": "./",
+      "description": "Weekly client check-ins, red/orange/green triage, and a consistent review queue for the head coach.",
+      "category": "productivity",
+      "keywords": ["personal-training", "coaching", "check-ins"]
+    }
+  ]
+}
